@@ -1,6 +1,8 @@
 # Scripting and Programming Applications
 
 This course allowed me to demonstrate my knowledge of C++, which also deepedned my understanding of object-oriented programming. I specifically learned about pointers, arrays, constructors, deconstructors, and classes. Posted below are the requirements and scenerio that this project was based off of. If you have a better way of implementing any parts of this code feel free to submit an issues or pull request. 
+
+
 <img width="1323" alt="Screenshot 2023-01-25 at 2 59 14 AM" src="https://user-images.githubusercontent.com/93024079/214510122-0ef24f38-9a01-479d-82cc-d22729ee316b.png">
 <img width="1302" alt="Screenshot 2023-01-25 at 3 00 15 AM" src="https://user-images.githubusercontent.com/93024079/214510127-d52b1dda-6c6a-44f0-b00b-a7b2f297ecc2.png">
 <img width="1310" alt="Screenshot 2023-01-25 at 3 00 42 AM" src="https://user-images.githubusercontent.com/93024079/214510131-529cd9c0-d682-4e4c-bf2c-ae907ab24bac.png">
